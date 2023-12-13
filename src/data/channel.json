@@ -1,0 +1,24 @@
+[{
+    "id": "1",
+    "slug": "@fifa",
+    "name": "FIFA",
+    "description": "FIFA on YouTube brings you the best in football videos, including FIFA World Cup™ and FIFA Women's World Cup™ highlights, full matches, classic stories, exclusive interviews, famous goals, documentaries and behind the scenes coverage of all FIFA's tournaments and events. Subscribe, follow and watch great soccer videos on all devices.",
+    "location": "Switzerland",
+    "content": "dff",
+    "year": "2021",
+    "logo": "https://yt3.googleusercontent.com/Q8jr7seJQAv5hNLdKNE9UXTcxB8-bZKPcSJN07ktcaPH6Luf4LB_lyORBBCNK1PKiEMwGBjSxVE=s176-c-k-c0x00ffffff-no-rj",
+    "banner_img": "https://yt3.googleusercontent.com/FsrW5eL92jSwceU8WDmJNRf9H2WoP2Dtc8hFxyMb1pcolkZRigofylQX_LDA9m8916swO-Sl0oY=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+},
+{
+    "id": "2",
+    "slug": "PewDiePie",
+    "name": "PewDiePie",
+    "description": "I make videos.",
+    "location": "Japan",
+    "subscribers":"111 M subscribers",
+    "videos":"4.1k videos",
+    "content": "dff",
+    "year": "2021",
+    "logo": "https://yt3.googleusercontent.com/5oUY3tashyxfqsjO5SGhjT4dus8FkN9CsAHwXWISFrdPYii1FudD4ICtLfuCw6-THJsJbgoY=s176-c-k-c0x00ffffff-no-rj",
+    "banner_img": "https://yt3.googleusercontent.com/82q_54Y1P3uTo9hVWV82rIE_O_j4cZUaB_wFq_4LKcteG72IEaDqBsuoXarUA35osaFX6q-0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
+}]

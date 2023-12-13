@@ -1,0 +1,67 @@
+[{
+    "id": 1,
+    "title": "Jawan | Official Hindi Trailer | Shah Rukh Khan | Atlee | Nayanthara | Vijay S | Deepika P | Anirudh",
+    "thumbnail" : "https://i.ytimg.com/vi/COv52Qyctws/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLC26iAdlbQVbS3iah0mjYbsTDyvKg",
+    "duration": "38.38",
+    "video_url" : "https://www.youtube.com/embed/COv52Qyctws?si=PMmuXvSYFvwb4qfY",
+    "channel_name": "The Red Chilli Entertainment ",
+    "channel_img" : "../assets/image/Red.jpg",
+    "views": "23M Views •",
+    "type": ["trending"],
+    "upload_time": "2 months ago"
+},
+{
+    "id": 2,
+    "duration": "15.28",
+    "title": "Blue Lock Best/Epic Moments Part 1",
+    "thumbnail" :"https://i.ytimg.com/vi/q4wTKYt5yvw/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLDNfNDDwG0KgI1RF8OQiIhCF5hdQw",
+    "video_url" : "https://www.youtube.com/embed/q4wTKYt5yvw?si=bxZZOO2EpBcEE9Dg",
+    "channel_name": "AA Studio",
+    "channel_img" : "",
+    "type": ["trending"],
+    "views": "8M Views •",
+    "upload_time": "8 months ago"
+},
+{
+    "id": 3,
+    "title": "THE HISTORICAL DUEL OF MESSI VS CR7 THAT SILENCED EVERYONE AT THE SANTIAGO BERNABÉU!",
+    "thumbnail" : "https://i.ytimg.com/vi/UN3hsCl7VHc/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLALcBGiXAghddQgWxf7vfWLABGCPg",
+    "duration": "55.38",
+    "video_url" : "https://www.youtube.com/embed/UN3hsCl7VHc?si=uwPVrGgC3s3e8Y57",
+    "channel_name": "Sports",
+    "channel_img" : "",
+    "views": "1.1M views •",
+    "type": [""],
+  
+    "upload_time": "2 months ago"
+},
+
+{
+    "id": 4,
+    "title":" Super11 Asia Cup 2023 | Match 5 India vs Nepal Highlights" ,
+    "thumbnail" :"https://i.ytimg.com/vi/AZ_y53YbF3A/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLAG43VgiUPU83kilR1RaDA3sw9RYw" ,
+    "duration": "",
+    "video_url" : "",
+    "channel_name":"" ,
+    "channel_img" : "",
+    "views": "23M Views •",
+    "type": [""],
+   
+    "upload_time": "11 hours ago"
+},
+{
+    "id": 5,
+    "title":" School Rivalry | Stand-up comedy by Devesh " ,
+    "thumbnail" :"https://i.ytimg.com/vi/YvOIjdM7VN8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYx2Md408FqrK-qYdX7aRxY7b3mw" ,
+    "duration": "",
+    "video_url" : "",
+    "channel_name":"Devesh Dixit ",
+    "channel_img" : "",
+    "views": "23M Views •",
+    "type": ["Related"],
+   
+    "upload_time": "11 hours ago"
+}
+
+
+]
